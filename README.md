@@ -1,5 +1,7 @@
 # linkedin-mcp-inbound-lead-triage
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A Claude Code prompt I run every 15 minutes to triage inbound leads in real time. Form-fill → live LinkedIn MCP profile + ICP score → HOT / WARM / COLD routing with Slack alerts, Pipedrive deals, and Instantly drips.
 
 Sharing it because the "stale enrichment" problem on inbound is even worse than on outbound — and almost nobody fixes it.
